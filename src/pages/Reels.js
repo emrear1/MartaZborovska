@@ -13,12 +13,12 @@ const Reels = () => {
 
   // Reels data - you can add more reels here
   const reels = [
-    { id: 1, poster: photo1, video: '/videos/introFilm.mp4', title: 'Fashion Reel 1' },
-    { id: 2, poster: photo2, video: '/videos/introFilm.mp4', title: 'Fashion Reel 2' },
-    { id: 3, poster: photo3, video: '/videos/introFilm.mp4', title: 'Fashion Reel 3' },
-    { id: 4, poster: photo4, video: '/videos/introFilm.mp4', title: 'Fashion Reel 4' },
-    { id: 5, poster: photo1, video: '/videos/introFilm.mp4', title: 'Fashion Reel 5' },
-    { id: 6, poster: photo2, video: '/videos/introFilm.mp4', title: 'Fashion Reel 6' },
+    { id: 1, poster: photo1, video: 'https://res.cloudinary.com/dmhqg1wim/video/upload/v1767009438/introFilm_solpgd.mp4', title: 'Fashion Reel 1' },
+    { id: 2, poster: photo2, video: 'https://res.cloudinary.com/dmhqg1wim/video/upload/v1767009438/introFilm_solpgd.mp4', title: 'Fashion Reel 2' },
+    { id: 3, poster: photo3, video: 'https://res.cloudinary.com/dmhqg1wim/video/upload/v1767009438/introFilm_solpgd.mp4', title: 'Fashion Reel 3' },
+    { id: 4, poster: photo4, video: 'https://res.cloudinary.com/dmhqg1wim/video/upload/v1767009438/introFilm_solpgd.mp4', title: 'Fashion Reel 4' },
+    { id: 5, poster: photo1, video: 'https://res.cloudinary.com/dmhqg1wim/video/upload/v1767009438/introFilm_solpgd.mp4', title: 'Fashion Reel 5' },
+    { id: 6, poster: photo2, video: 'https://res.cloudinary.com/dmhqg1wim/video/upload/v1767009438/introFilm_solpgd.mp4', title: 'Fashion Reel 6' },
   ];
 
   useEffect(() => {

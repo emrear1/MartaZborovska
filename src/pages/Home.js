@@ -110,7 +110,7 @@ const Home = () => {
             loop
             poster={images[0]}
           >
-            <source src="/videos/introFilm.mp4" type="video/mp4" />
+            <source src="https://res.cloudinary.com/dmhqg1wim/video/upload/v1767009438/introFilm_solpgd.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
